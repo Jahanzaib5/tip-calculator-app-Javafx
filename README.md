@@ -1,1 +1,1 @@
-"# Tip calculator Application using JavaFx and SceneBuilder" 
+# Tip calculator Application using JavaFx and SceneBuilder
