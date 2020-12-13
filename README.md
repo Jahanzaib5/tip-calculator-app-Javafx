@@ -1,4 +1,4 @@
-# Tip calculator Application using JavaFx and SceneBuilder
+# Tip calculator Application using JavaFx and SceneBuilder by Jahanzaib Danish
 
 ![](images/tipcalculato1.JPG)
 #
